@@ -6,3 +6,6 @@ function fibonacci(n) {
     console.log(fib);
 }
 fibonacci(3)
+
+
+// Big-o = o(n)
